@@ -1,0 +1,538 @@
+{
+  "languageId": "2",
+  "topicList": [
+    {
+      "topicId": "1",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Скільки тобі років?"
+        }
+      ]
+    },
+    {
+      "topicId": "2",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Скільки тобі років?"
+        }
+      ]
+    },
+    {
+      "topicId": "3",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Скільки тобі років?"
+        }
+      ]
+    },
+    {
+      "topicId": "4",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Скільки тобі років?"
+        }
+      ]
+    },
+    {
+      "topicId": "5",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Скільки тобі років?"
+        }
+      ]
+    },
+    {
+      "topicId": "6",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Скільки тобі років?"
+        }
+      ]
+    },
+    {
+      "topicId": "7",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Скільки тобі років?"
+        }
+      ]
+    },
+    {
+      "topicId": "8",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Скільки тобі років?"
+        }
+      ]
+    },
+    {
+      "topicId": "9",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Скільки тобі років?"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Звідки ти?"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Де ти народилась?"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Яка твоя освіта?"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Як тебе звати?"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Скільки тобі років?"
+        }
+      ]
+    }
+  ]
+}

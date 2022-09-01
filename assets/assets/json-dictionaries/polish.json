@@ -1,0 +1,661 @@
+{
+  "languageId": "3",
+  "topicList": [
+    {
+      "topicId": "1",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        }
+      ]
+    },
+    {
+      "topicId": "2",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Jakie jest Twoje wykształcenie? akie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        }
+      ]
+    },
+    {
+      "topicId": "3",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Jakie jest Twoje wykształcenie? akie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        }
+      ]
+    },
+    {
+      "topicId": "4",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Jakie jest Twoje wykształcenie? akie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        }
+      ]
+    },
+    {
+      "topicId": "5",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Jakie jest Twoje wykształcenie? akie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        }
+      ]
+    },
+    {
+      "topicId": "6",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Jakie jest Twoje wykształcenie? akie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        }
+      ]
+    },
+    {
+      "topicId": "7",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Jakie jest Twoje wykształcenie? akie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        }
+      ]
+    },
+    {
+      "topicId": "8",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Jakie jest Twoje wykształcenie? akie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        }
+      ]
+    },
+    {
+      "topicId": "9",
+      "phraseList": [
+        {
+          "phraseId": "1",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "2",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "3",
+          "phraseText": "Jakie jest Twoje wykształcenie? akie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "4",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "5",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "6",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "7",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "8",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "9",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "10",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/dinosaur.mp3"
+        },
+        {
+          "phraseId": "11",
+          "phraseText": "Skąd jesteś?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "12",
+          "phraseText": "Gdzie się urodziłeś?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        },
+        {
+          "phraseId": "13",
+          "phraseText": "Jakie jest Twoje wykształcenie?",
+          "audioPath": "assets/audio/animals.mp3"
+        },
+        {
+          "phraseId": "14",
+          "phraseText": "Jak masz na imię?",
+          "audioPath": "assets/audio/game_sound_time.mp3"
+        },
+        {
+          "phraseId": "15",
+          "phraseText": "Wiek?",
+          "audioPath": "assets/audio/game_sound_win.mp3"
+        }
+      ]
+    }
+  ]
+}
+

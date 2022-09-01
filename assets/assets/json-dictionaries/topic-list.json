@@ -1,0 +1,49 @@
+{
+  "topicList": [
+    {
+      "topicId": "1",
+      "name": "В дорозі",
+      "image": "images/road.png"
+    },
+    {
+      "topicId": "2",
+      "name": "Готель",
+      "image": "images/hotel.png"
+    },
+    {
+      "topicId": "3",
+      "name": "Ресторан",
+      "image": "images/restaurant.png"
+    },
+    {
+      "topicId": "4",
+      "name": "Місто",
+      "image": "images/city.png"
+    },
+    {
+      "topicId": "5",
+      "name": "Лікарня",
+      "image": "images/hospital.png"
+    },
+    {
+      "topicId": "6",
+      "name": "Знайомство",
+      "image": "images/meeting.png"
+    },
+    {
+      "topicId": "7",
+      "name": "Магазин",
+      "image": "images/shop.png"
+    },
+    {
+      "topicId": "8",
+      "name": "Робота",
+      "image": "images/job.png"
+    },
+    {
+      "topicId": "9",
+      "name": "Документи",
+      "image": "images/docs.png"
+    }
+  ]
+}

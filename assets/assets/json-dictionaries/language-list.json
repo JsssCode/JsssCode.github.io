@@ -1,0 +1,20 @@
+[
+  {
+    "languageId": "1",
+    "languageName": "english",
+    "nativeLanguageName": "English",
+    "code": "en"
+  },
+  {
+    "languageId": "2",
+    "languageName": "ukrainian",
+    "nativeLanguageName": "Українська",
+    "code": "ua"
+  },
+  {
+    "languageId": "3",
+    "languageName": "polish",
+    "nativeLanguageName": "Język polski",
+    "code": "pl"
+  }
+]
